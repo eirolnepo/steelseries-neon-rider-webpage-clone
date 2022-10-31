@@ -9,7 +9,6 @@
 ul{
     list-style: none;
 }
-
 a{
     text-decoration: none;
     color: white;
@@ -29,10 +28,9 @@ button{
     align-items: center;
 }
 
-.nav-title{
-    font-family: Roboto;
-    font-weight: 900;
-    margin: 20px;
+.title-logo{
+    width: 450px;
+    margin: 15px;
 }
 
 .nav-list, 
@@ -40,7 +38,7 @@ button{
     font-family: Roboto;
     font-weight: 700;
     display: flex;
-    gap: 24px;
+    gap: 44px;
 }
 
 .nav-list-two{
