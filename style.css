@@ -49,3 +49,22 @@ button{
 .gaming-gear{
     margin-left: 50px;
 }
+
+.sign-up-btn{
+    font-family: Roboto;
+    font-weight: 500;
+    background-color: black;
+    color: #fc4e03;
+    border: 2px solid #fc4e03;
+    padding: 3px;
+}
+
+.sign-up-btn:hover{
+    color: black;
+    background-color: #fc4e03;
+}
+
+.log-in-btn{
+    background-color: black;
+    color: white;
+}
